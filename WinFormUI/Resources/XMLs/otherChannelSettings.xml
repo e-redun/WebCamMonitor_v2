@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ChannelInfo>
+  <ChannelInfo ChannelLink="http://demo.macroscop.com:8080/mobile?login=root&amp;channelid=2410f79c-8f7e-4cd4-8baf-f7be29869a7e&amp;resolutionX=640&amp;resolutionY=480&amp;fps=25" Name="Road" Description="Дорога" />
+  <ChannelInfo ChannelLink="http://demo.macroscop.com:8080/mobile?login=root&amp;channelid=773bad89-c18a-4e7e-a70d-c2a37897a92d&amp;resolutionX=640&amp;resolutionY=480&amp;fps=25" Name="Parking in the office center" Description="Парковка возле ОЦ" />
+  <ChannelInfo ChannelLink="http://94.72.19.56/mjpg/video.mjpg" Name="Kupchino1" Description="Купчино1, Питер" />
+  <ChannelInfo ChannelLink="http://94.72.19.56/mjpg/video.mjpg" Name="Kupchino2" Description="Купчино, СПб" />
+</ChannelInfo>

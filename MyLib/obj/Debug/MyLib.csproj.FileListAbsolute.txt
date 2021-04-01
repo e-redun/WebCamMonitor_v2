@@ -1,0 +1,279 @@
+D:\Проекты\Programming\C#\SandBox\WebCamMonitor\MyLib\bin\Debug\MyLib.dll
+D:\Проекты\Programming\C#\SandBox\WebCamMonitor\MyLib\bin\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\SandBox\WebCamMonitor\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\Проекты\Programming\C#\SandBox\WebCamMonitor\MyLib\obj\Debug\MyLib.dll
+D:\Проекты\Programming\C#\SandBox\WebCamMonitor\MyLib\obj\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\SandBox\WebCamMonitor\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.csproj.GenerateResource.cache
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Properties.Resources.resources
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.ComboToggler.resources
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.SideHeaderVideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.resx
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout.resources
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_3x3.resources
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2x2.resources
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.resx
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2x3.resources
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.MonitorVideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.resx
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_Default.resources
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.resx
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2_4.resources
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.resx
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_4V.resources
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.ChannelsDashBoard.resources
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.resx
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_4H.resources
+D:\Проекты\Programming\C#\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.VideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\bin\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.Controls.ChannelsDashBoard.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_4V.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2_4.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_4H.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2x2.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2x3.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_Default.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.MonitorVideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.SideHeaderVideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.VideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.Controls.ComboToggler.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_3x3.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.Properties.Resources.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.csproj.GenerateResource.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия перед изм. Синхронизации\MyLib\obj\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\bin\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.ComboToggler.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_4V.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2_4.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_4H.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2x2.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2x3.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_Default.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.MonitorVideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.VideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_3x3.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Properties.Resources.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.csproj.GenerateResource.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.ChannelDashboard.ChannelDashboard.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.ChannelVideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\MyLib\obj\Debug\MyLib.Controls.TabControl_Tabless.TabControlTablessTabPage.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\bin\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.Controls.ChannelDashboard.ChannelDashboard.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.Controls.ComboToggler.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_4V.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2_4.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_4H.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2x2.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2x3.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_Default.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.Controls.TabControl_Tabless.TabControlTablessTabPage.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.MonitorVideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.ChannelVideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.VideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_3x3.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.Properties.Resources.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.csproj.GenerateResource.cache
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\MyLib\obj\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\bin\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.Controls.ChannelDashboard.ChannelDashboard.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.Controls.ComboToggler.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_4V.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2_4.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_4H.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2x2.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2x3.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_Default.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.Controls.TabControl_Tabless.TabControlTablessTabPage.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.MonitorVideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.ChannelVideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.VideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_3x3.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.Properties.Resources.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.csproj.GenerateResource.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\MyLib\obj\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\bin\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.Controls.ChannelDashboard.ChannelDashboard.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.Controls.ComboToggler.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_4V.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2_4.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_4H.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2x2.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_2x3.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_1_Default.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.Controls.TabControl_Tabless.TabControlTablessTabPage.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.MonitorVideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.ChannelVideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.Controls.VideoPlayers.VideoPlayer.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.Controls.MonitorTabPageLayouts.MonitorTabPageLayout_3x3.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.Properties.Resources.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.csproj.GenerateResource.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\MyLib\obj\Debug\MyLib.pdb

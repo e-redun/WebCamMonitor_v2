@@ -1,0 +1,184 @@
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\WebCamMonitor.exe.config
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\WebCamMonitor.exe
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\WebCamMonitor.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\obj\Debug\WinFormUI.csprojResolveAssemblyReference.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\obj\Debug\WebCamMonitor.g.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\obj\Debug\WebCamMonitor.FormMain.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\obj\Debug\WebCamMonitor.FormEditMonitorPage.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\obj\Debug\WebCamMonitor.Properties.Resources.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\obj\Debug\WebCamMonitor.exe
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\obj\Debug\WebCamMonitor.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Resources\Snapshots\NoSnapshot.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Resources\XMLs\configex.xml
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Resources\XMLs\configex.xml
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Resources\Snapshots\MainChannels\Corridor.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Resources\Snapshots\MainChannels\Entrance.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Resources\Snapshots\MainChannels\Parking in the office center.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Resources\Snapshots\MainChannels\Parking.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Resources\Snapshots\MainChannels\Road.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\Resources\Snapshots\NoSnapshot.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\WebCamMonitor.exe.config
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\WebCamMonitor.exe
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\WebCamMonitor.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\bin\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\obj\Debug\WinFormUI.csprojResolveAssemblyReference.cache
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\obj\Debug\WebCamMonitor.g.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\obj\Debug\WebCamMonitor.FormMain.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\obj\Debug\WebCamMonitor.FormEditMonitorPage.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\obj\Debug\WebCamMonitor.Properties.Resources.resources
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\obj\Debug\WebCamMonitor.exe
+D:\Проекты\Programming\C#\WebCamMonitor\BackUp\202103282057_WebCamMonitor_v2 - копия\WinFormUI\obj\Debug\WebCamMonitor.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Resources\XMLs\configex.xml
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Resources\Snapshots\MainChannels\Corridor.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Resources\Snapshots\MainChannels\Entrance.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Resources\Snapshots\MainChannels\Parking in the office center.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Resources\Snapshots\MainChannels\Parking.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Resources\Snapshots\MainChannels\Road.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\Resources\Snapshots\NoSnapshot.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\WebCamMonitor.exe.config
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\WebCamMonitor.exe
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\WebCamMonitor.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\bin\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\obj\Debug\WinFormUI.csprojResolveAssemblyReference.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\obj\Debug\WebCamMonitor.g.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\obj\Debug\WebCamMonitor.FormMain.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\obj\Debug\WebCamMonitor.FormEditMonitorPage.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\obj\Debug\WebCamMonitor.Properties.Resources.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\obj\Debug\WebCamMonitor.exe
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удал_автосохр\WinFormUI\obj\Debug\WebCamMonitor.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Resources\XMLs\configex.xml
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.resx
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.Designer.cs
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Resources\Snapshots\MainChannels\Corridor.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Resources\Snapshots\MainChannels\Entrance.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Resources\Snapshots\MainChannels\Parking in the office center.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Resources\Snapshots\MainChannels\Parking.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Resources\Snapshots\MainChannels\Road.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\Resources\Snapshots\NoSnapshot.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\WebCamMonitor.exe.config
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\WebCamMonitor.exe
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\WebCamMonitor.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\MyLib.dll
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\bin\Debug\MyLib.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\obj\Debug\WinFormUI.csprojResolveAssemblyReference.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\obj\Debug\WebCamMonitor.g.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\obj\Debug\WebCamMonitor.FormMain.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\obj\Debug\WebCamMonitor.FormEditMonitorPage.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\obj\Debug\WebCamMonitor.Properties.Resources.resources
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\obj\Debug\WebCamMonitor.exe
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2 - копия_перед_удалением_пакетов - эксперим\WinFormUI\obj\Debug\WebCamMonitor.pdb
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Resources\Snapshots\Channels\MainChannels\Corridor.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Resources\Snapshots\Channels\MainChannels\Entrance.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Resources\Snapshots\Channels\MainChannels\Parking in the office center.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Resources\Snapshots\Channels\MainChannels\Parking.jpg
+D:\Проекты\Programming\C#\WebCamMonitor\WebCamMonitor_v2\WinFormUI\bin\Debug\Resources\Snapshots\Channels\MainChannels\Road.jpg

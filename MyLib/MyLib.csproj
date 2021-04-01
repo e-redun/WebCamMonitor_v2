@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E77DFC15-EAC8-4B24-95D5-65C1A82BE50F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MyLib</RootNamespace>
+    <AssemblyName>MyLib</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\ChannelDashboard\ChannelDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ChannelDashboard\ChannelDashboard.designer.cs">
+      <DependentUpon>ChannelDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ChannelDashboard\ContextMenu\ContextMenuModel.cs" />
+    <Compile Include="Controls\ChannelDashboard\ContextMenu\ContextMenuPresenter.cs" />
+    <Compile Include="Controls\ChannelDashboard\ContextMenu\IContextMenu.cs" />
+    <Compile Include="Controls\ChannelDashboard\TogglerHandler\ITogglerHandler.cs" />
+    <Compile Include="Controls\ChannelDashboard\TogglerHandler\TogglerHandlerModel.cs" />
+    <Compile Include="Controls\ChannelDashboard\TogglerHandler\TogglerHandlerPresenter.cs" />
+    <Compile Include="Controls\ComboToggler\ComboToggler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ComboToggler\ComboToggler.designer.cs">
+      <DependentUpon>ComboToggler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ComboToggler\IComboToggler.cs" />
+    <Compile Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.cs">
+      <SubType>UserControl</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.Designer.cs">
+      <DependentUpon>MonitorTabPageLayout_1_4V.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.cs">
+      <SubType>UserControl</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.Designer.cs">
+      <DependentUpon>MonitorTabPageLayout_2_4.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.cs">
+      <SubType>UserControl</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.Designer.cs">
+      <DependentUpon>MonitorTabPageLayout_1_4H.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.cs">
+      <SubType>UserControl</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.Designer.cs">
+      <DependentUpon>MonitorTabPageLayout_2x2.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.cs">
+      <SubType>UserControl</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.Designer.cs">
+      <DependentUpon>MonitorTabPageLayout_2x3.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.Designer.cs">
+      <DependentUpon>MonitorTabPageLayout_1_Default.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Controls\TabControl_Dynamic\MonitorTabPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\TabControl_Tabless\TabControlTablessTabPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\TabControl_Tabless\TabControlTablessTabPage.Designer.cs">
+      <DependentUpon>TabControlTablessTabPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\VideoPlayers\MonitorVideoPlayer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\VideoPlayers\MonitorVideoPlayer.Designer.cs">
+      <DependentUpon>MonitorVideoPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\VideoPlayers\ChannelVideoPlayer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\VideoPlayers\ChannelVideoPlayer.Designer.cs">
+      <DependentUpon>ChannelVideoPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\VideoPlayers\VideoPlayer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\VideoPlayers\VideoPlayer.Designer.cs">
+      <DependentUpon>VideoPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.Designer.cs">
+      <DependentUpon>MonitorTabPageLayout.cs</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.Designer.cs">
+      <DependentUpon>MonitorTabPageLayout_3x3.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Enums\ExpandDirection.cs" />
+    <Compile Include="Enums\ExpColState.cs" />
+    <Compile Include="Enums\Operations.cs" />
+    <Compile Include="Enums\State.cs" />
+    <Compile Include="Factory\LibFactory.cs" />
+    <Compile Include="MVP\OtherChannelSettings\IOtherChannelSettings.cs" />
+    <Compile Include="MVP\OtherChannelSettings\OtherChannelSettingsModel.cs" />
+    <Compile Include="Models\ChannelsPackage\ChannelsPackageModel.cs" />
+    <Compile Include="Models\Channel\MainChannelModel.cs" />
+    <Compile Include="Models\ChannelsPackage\IChannelsPackage.cs" />
+    <Compile Include="Models\Channel\OtherChannelModel.cs" />
+    <Compile Include="Models\MJPEGProcessor\Processor\MJPEGProcessor.cs" />
+    <Compile Include="Models\MonitorTabPageLayoutList\IMonitorTabPageLayoutList.cs" />
+    <Compile Include="Models\MonitorTabPageLayoutList\MonitorTabPageLayoutListModel.cs" />
+    <Compile Include="Models\MonitorPage\IMonitorPageView.cs" />
+    <Compile Include="Models\MonitorPage\MonitorPageModel.cs" />
+    <Compile Include="Models\_Interfaces\ChannelsSettings\IChannelSettings.cs" />
+    <Compile Include="MVP\OtherSettings\IOtherSettings.cs" />
+    <Compile Include="MVP\OtherSettings\OtherSettingsModel.cs" />
+    <Compile Include="Processors\DataGridViewProcessor\DataGridViewProcessor.cs" />
+    <Compile Include="Processors\DialogProcessor\DialogProcessor.cs" />
+    <Compile Include="Processors\Photographer\Photographer.cs" />
+    <Compile Include="Processors\Validator\Validator.cs" />
+    <Compile Include="Models\Channel\ChannelModel.cs" />
+    <Compile Include="Models\_Interfaces\Channel\IMained.cs" />
+    <Compile Include="MVP\MainChannelSettings\IMainChannelSettings.cs" />
+    <Compile Include="MVP\MainChannelSettings\MainChannelSettingsModel.cs" />
+    <Compile Include="MVP\SideHeaderToggler\ISideHeaderTogglerView.cs" />
+    <Compile Include="MVP\SideHeaderToggler\SideHeaderTogglerModel.cs" />
+    <Compile Include="Models\MJPEGProcessor\Processor\MJPEGProcessorModel.cs" />
+    <Compile Include="Models\MJPEGProcessor\Extensions.cs" />
+    <Compile Include="Models\MJPEGProcessor\FrameReadyEventArgs.cs" />
+    <Compile Include="Controls\TabControl_Tabless\TabControlTablessListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\TabControl_Tabless\SettingsTabPage.cs" />
+    <Compile Include="Models\MJPEGProcessor\MJPEGStremException.cs" />
+    <Compile Include="Processors\DataIOProcessor\DataIOProcessor.cs" />
+    <Compile Include="Controls\TabControl_Tabless\TabControlTabless.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\TabControl_Dynamic\TabControlDynamic.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Processors\ControlProcessor\ControlProcessor.cs" />
+    <Compile Include="Processors\MessageProcessor\MessageProcessor.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Arrows\arrowDown.wmf" />
+    <None Include="Icons\Arrows\arrowLeft.wmf" />
+    <None Include="Icons\Arrows\arrowRight.wmf" />
+    <None Include="Icons\Arrows\arrowUp.wmf" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\ChannelDashboard\ChannelDashboard.resx">
+      <DependentUpon>ChannelDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ComboToggler\ComboToggler.resx">
+      <DependentUpon>ComboToggler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4V.resx">
+      <DependentUpon>MonitorTabPageLayout_1_4V.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2_4.resx">
+      <DependentUpon>MonitorTabPageLayout_2_4.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_4H.resx">
+      <DependentUpon>MonitorTabPageLayout_1_4H.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x2.resx">
+      <DependentUpon>MonitorTabPageLayout_2x2.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_2x3.resx">
+      <DependentUpon>MonitorTabPageLayout_2x3.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_1_Default.resx">
+      <DependentUpon>MonitorTabPageLayout_1_Default.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\TabControl_Tabless\TabControlTablessTabPage.resx">
+      <DependentUpon>TabControlTablessTabPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\VideoPlayers\MonitorVideoPlayer.resx">
+      <DependentUpon>MonitorVideoPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\VideoPlayers\ChannelVideoPlayer.resx">
+      <DependentUpon>ChannelVideoPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\VideoPlayers\VideoPlayer.resx">
+      <DependentUpon>VideoPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MonitorTabPageLayoutBase\MonitorTabPageLayout.resx">
+      <DependentUpon>MonitorTabPageLayout.cs</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MonitorTabPageLayouts\MonitorTabPageLayout_3x3.resx">
+      <DependentUpon>MonitorTabPageLayout_3x3.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icons\Other\downloadIcon.png" />
+    <Content Include="Icons\Other\saveIconBlue.png" />
+    <Content Include="Icons\Other\uploadIcon.png" />
+    <Content Include="Pictures\NoSnapshot.jpg" />
+    <None Include="Icons\arrowLeftIcon.png" />
+    <None Include="Icons\arrowRightIcon.png" />
+    <None Include="Icons\arrowDownIcon.png" />
+    <Content Include="Icons\Arrows\arrowDownIcon.png" />
+    <Content Include="Icons\Arrows\arrowLeftIcon.png" />
+    <Content Include="Icons\Arrows\arrowRightIcon.png" />
+    <None Include="Icons\arrowUpIcon.png" />
+    <Content Include="Icons\List\enterListIcon.png" />
+    <Content Include="Icons\List\normalListIcon.png" />
+    <Content Include="Icons\List\selectedListIcon.png" />
+    <Content Include="Icons\Player\cameraIcon.png" />
+    <Content Include="Icons\Player\cameraIcon3.png" />
+    <Content Include="Icons\Player\cameraIconYellow.png" />
+    <Content Include="Icons\Player\pauseIconOrange.png" />
+    <Content Include="Pictures\NoConnection.png" />
+    <Content Include="Icons\Arrows\arrowUpIcon.png" />
+    <None Include="Icons\Player\playIconRed.png" />
+    <None Include="Icons\Player\stopIconGreen.png" />
+    <Content Include="Icons\Player\stopIconRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Player\delIcon_2.png" />
+    <None Include="Icons\Player\playIconGreen.png" />
+    <None Include="Icons\Player\stopIconOrange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Other\reloadIconBlue.png" />
+    <None Include="Icons\Other\delIcon2.png" />
+    <None Include="Icons\Other\reloadIcon.png" />
+    <None Include="Icons\Other\addIcon.png" />
+    <None Include="Icons\Other\delIcon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
