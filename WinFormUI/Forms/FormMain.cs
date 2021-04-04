@@ -134,7 +134,7 @@ namespace WebCamMonitor
         private void EditMonitorPageHandler(MonitorTabPage tabPage)
         {
             FormEditMonitorPage formEditMonitorPage = new FormEditMonitorPage(tabPage);
-            formEditMonitorPage.Show();
+            formEditMonitorPage.ShowDialog();
         }
 
 
