@@ -63,12 +63,12 @@
             // buttonSave
             // 
             this.buttonSave.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.buttonSave.Location = new System.Drawing.Point(348, 432);
+            this.buttonSave.Location = new System.Drawing.Point(350, 309);
             this.buttonSave.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.buttonSave.Name = "buttonSave";
             this.buttonSave.Size = new System.Drawing.Size(117, 37);
             this.buttonSave.TabIndex = 4;
-            this.buttonSave.Text = "Сохранить";
+            this.buttonSave.Text = "Принять";
             this.buttonSave.UseVisualStyleBackColor = true;
             this.buttonSave.Click += new System.EventHandler(this.buttonSave_Click);
             // 
@@ -76,7 +76,7 @@
             // 
             this.buttonCancel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonCancel.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.buttonCancel.Location = new System.Drawing.Point(488, 432);
+            this.buttonCancel.Location = new System.Drawing.Point(490, 309);
             this.buttonCancel.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.buttonCancel.Name = "buttonCancel";
             this.buttonCancel.Size = new System.Drawing.Size(117, 37);
@@ -103,7 +103,7 @@
             // 
             this.splitContainer1.Panel2.Controls.Add(this.panelLayout);
             this.splitContainer1.Panel2.Controls.Add(this.labelLayout);
-            this.splitContainer1.Size = new System.Drawing.Size(583, 283);
+            this.splitContainer1.Size = new System.Drawing.Size(583, 209);
             this.splitContainer1.SplitterDistance = 250;
             this.splitContainer1.SplitterWidth = 12;
             this.splitContainer1.TabIndex = 43;
@@ -116,7 +116,7 @@
             this.listBoxLayoutsFiles.Location = new System.Drawing.Point(0, 28);
             this.listBoxLayoutsFiles.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.listBoxLayoutsFiles.Name = "listBoxLayoutsFiles";
-            this.listBoxLayoutsFiles.Size = new System.Drawing.Size(250, 255);
+            this.listBoxLayoutsFiles.Size = new System.Drawing.Size(250, 181);
             this.listBoxLayoutsFiles.TabIndex = 9;
             this.listBoxLayoutsFiles.DoubleClick += new System.EventHandler(this.listBoxLayoutsFiles_DoubleClick);
             // 
@@ -137,7 +137,7 @@
             this.panelLayout.Location = new System.Drawing.Point(0, 28);
             this.panelLayout.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.panelLayout.Name = "panelLayout";
-            this.panelLayout.Size = new System.Drawing.Size(321, 255);
+            this.panelLayout.Size = new System.Drawing.Size(321, 181);
             this.panelLayout.TabIndex = 8;
             // 
             // labelLayout
@@ -157,7 +157,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.buttonCancel;
-            this.ClientSize = new System.Drawing.Size(630, 491);
+            this.ClientSize = new System.Drawing.Size(630, 363);
             this.Controls.Add(this.splitContainer1);
             this.Controls.Add(this.buttonCancel);
             this.Controls.Add(this.buttonSave);
